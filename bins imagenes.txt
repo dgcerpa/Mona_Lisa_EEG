@@ -1,0 +1,20 @@
+bin 1
+Congruente
+.{11; 12; 13}
+
+
+bin 2
+Incongruente
+.{21; 22; 23}
+
+bin 3
+Valencia Positiva
+.{11, 21}
+
+bin 4
+Valencia Neutra
+.{12, 22}
+
+bin 5 
+Valencia Negativa
+.{13, 23}
