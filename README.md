@@ -1,4 +1,4 @@
-# Mona Lisa EEG — Preprocessing Pipelines
+# HydroCel Geodesic EEG — Preprocessing Pipelines
 
 Automated preprocessing pipelines for HydroCel 65-channel EEG data. The repository
 contains two pipelines: an **ERP (task) pipeline** that takes raw `.mat` recordings
